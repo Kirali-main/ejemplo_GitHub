@@ -1,0 +1,33 @@
+.icono{
+    color: white;
+    transition: transform 0.3s;
+}
+
+.icono:hover{
+    transform: scale(1.05);
+}
+
+.li{
+    list-style-type: none;
+}
+
+ul.redes li{
+    display: inline;
+}
+
+.card{
+    background-color: #ffffdc;
+    transition: transform 0.3s;
+}
+
+.card:hover{
+    transform: scale(1.05);
+}
+
+.navbar-toggler-icon {
+    filter: brightness(0) invert(1);
+  }
+
+.fuente-letra{
+    font-family: serif;
+}
